@@ -46,14 +46,15 @@ Use the administrator account included in the database.
 
 ## Documentation
 
-- Project Report:
-  - documentation/Westports_Corporate_Visit_Booking_System_Report.pdf
+The project documentation can be accessed through the following Google Drive folder:
 
-- Presentation Slides:
-  - documentation/Presentation_Slides.pdf
+Google Drive:
+https://drive.google.com/drive/folders/10oCtD6yvRMyqDFaa8AT7v5xHpGrSrTtK?usp=sharing
 
-- Presentation Video:
-  - documentation/Presentation_Video.mp4
+Contents:
+- Project Report (PDF)
+- Presentation Slides (PDF)
+- Presentation Video
 
 ---
 
