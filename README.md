@@ -39,20 +39,20 @@ Location: database/westports_booking.sql
 
 Use the administrator account included in the database.
 
-**Email: admin@westports.com.my
-Password: admin123**
+**Email: admin@westports.com**
+**Password: admin123**
 
 ---
 
 ## Documentation
 
-- 📄 Project Report
+- Project Report:
   - documentation/Westports_Corporate_Visit_Booking_System_Report.pdf
 
-- 📑 Presentation Slides
+- Presentation Slides:
   - documentation/Presentation_Slides.pdf
 
-- 🎥 Presentation Video
+- Presentation Video:
   - documentation/Presentation_Video.mp4
 
 ---
